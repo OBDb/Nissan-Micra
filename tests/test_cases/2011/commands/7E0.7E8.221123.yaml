@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221123
+test_cases:
+- expected_values:
+    MICRA_F_RAT_ADJ: -8
+  response: 7E8046211235C
+- expected_values:
+    MICRA_F_RAT_ADJ: 6
+  response: 7E8046211236A
+- expected_values:
+    MICRA_F_RAT_ADJ: 7
+  response: |-
+    7E8046211236B
+    ATFCSM0
+    OK

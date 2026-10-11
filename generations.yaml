@@ -1,0 +1,20 @@
+references:
+  - "https://en.wikipedia.org/wiki/Nissan_Micra"
+
+generations:
+  - name: "K11"
+    start_year: 1992
+    end_year: 2002
+    description: "The second-generation Micra, with 1.0 L to 1.4 L CG engines."
+  - name: "K12"
+    start_year: 2002
+    end_year: 2010
+    description: "Built on the Renault-Nissan B platform shared with the Clio III and Note."
+  - name: "K13"
+    start_year: 2010
+    end_year: 2017
+    description: "On the V platform, sold as the March in some markets, with the 1.2 L HR12 engine."
+  - name: "K14"
+    start_year: 2017
+    end_year: 2023
+    description: "Built alongside the Clio IV on the CMF-B platform, with Renault engines."
